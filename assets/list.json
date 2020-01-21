@@ -1,0 +1,249 @@
+[
+  {
+    "categoryName": "compute",
+    "items": [
+      {
+        "key": "amazon-ec2",
+        "name": "Amazon EC2"
+      },
+      {
+        "key": "amazon-ec2-auto-scaling",
+        "name": "Amazon EC2 Auto Scaling"
+      },
+      {
+        "key": "amazon-elastic-container-registry",
+        "name": "Amazon Elastic Container Registry"
+      },
+      {
+        "key": "amazon-elastic-kubernetes-service",
+        "name": "Amazon Elastic Kubernetes Service"
+      },
+      {
+        "key": "amazon-lightsail",
+        "name": "Amazon Lightsail"
+      },
+      {
+        "key": "aws-batch",
+        "name": "AWS Batch"
+      },
+      {
+        "key": "aws-elastic-beanstalk",
+        "name": "AWS Elastic Beanstalk"
+      },
+      {
+        "key": "aws-fargate",
+        "name": "AWS Fargate"
+      },
+      {
+        "key": "aws-lambda",
+        "name": "AWS Lambda"
+      },
+      {
+        "key": "aws-outposts",
+        "name": "AWS Outposts"
+      },
+      {
+        "key": "aws-serverless-application-repository",
+        "name": "AWS Serverless Application Repository"
+      }
+    ]
+  },
+  {
+    "categoryName": "customer-enablement",
+    "items": [
+      {
+        "key": "amazon-connect",
+        "name": "Amazon Connect"
+      },
+      {
+        "key": "amazon-pinpoint",
+        "name": "Amazon Pinpoint"
+      },
+      {
+        "key": "amazon-simple-email-service",
+        "name": "Amazon Simple Email Service"
+      },
+      {
+        "key": "aws-iq",
+        "name": "AWS IQ",
+        "type": "png"
+      },
+      {
+        "key": "aws-managed-services",
+        "name": "AWS Managed Services",
+        "type": "png"
+      },
+      {
+        "key": "aws-professional-services",
+        "name": "AWS Professional Services",
+        "type": "png"
+      },
+      {
+        "key": "aws-support",
+        "name": "AWS Support",
+        "type": "png"
+      }
+    ]
+  },
+  {
+    "categoryName": "database",
+    "items": [
+      {
+        "key": "amazon-aurora",
+        "name": "Amazon Aurora"
+      },
+      {
+        "key": "amazon-documentdb",
+        "name": "Amazon DocumentDB"
+      },
+      {
+        "key": "amazon-dynamodb",
+        "name": "Amazon DynamoDB"
+      },
+      {
+        "key": "amazon-elasticache",
+        "name": "Amazon ElastiCache"
+      },
+      {
+        "key": "amazon-neptune",
+        "name": "Amazon Neptune"
+      },
+      {
+        "key": "amazon-quantum-ledger-database",
+        "name": "Amazon Quantum Ledger Database"
+      },
+      {
+        "key": "amazon-rds",
+        "name": "Amazon RDS"
+      },
+      {
+        "key": "amazon-redshift",
+        "name": "Amazon Redshift"
+      },
+      {
+        "key": "amazon-timestream",
+        "name": "Amazon Timestream"
+      },
+      {
+        "key": "aws-database-migration-service",
+        "name": "AWS Database Migration Service"
+      }
+    ]
+  },
+  {
+    "categoryName": "developer-tools",
+    "items": [
+      {
+        "key": "aws-cloud9",
+        "name": "AWS Cloud 9"
+      },
+      {
+        "key": "aws-cloud-development-kit",
+        "name": "AWS Cloud Development Kit"
+      },
+      {
+        "key": "aws-codebuild",
+        "name": "AWS CodeBuild"
+      },
+      {
+        "key": "aws-codecommit",
+        "name": "AWS CodeCommit"
+      },
+      {
+        "key": "aws-codedeploy",
+        "name": "AWS CodeDeploy"
+      },
+      {
+        "key": "aws-codepipeline",
+        "name": "AWS CodePipeline"
+      },
+      {
+        "key": "aws-codestar",
+        "name": "AWS CodeStar"
+      },
+      {
+        "key": "aws-x-ray",
+        "name": "AWS X-Ray"
+      }
+    ]
+  },
+  {
+    "categoryName": "end-user-computing",
+    "items": [
+      {
+        "key": "amazon-appstream-2",
+        "name": "Amazon AppStream 2.0"
+      },
+      {
+        "key": "amazon-workdocs",
+        "name": "Amazon WorkDocs"
+      },
+      {
+        "key": "amazon-worklink",
+        "name": "Amazon WorkLink"
+      },
+      {
+        "key": "amazon-workspaces",
+        "name": "Amazon WorkSpaces"
+      }
+    ]
+  },
+  {
+    "categoryName": "game-tech",
+    "items": [
+      {
+        "key": "amazon-gamelift",
+        "name": "Amazon GameLift"
+      }
+    ]
+  },
+  {
+    "categoryName": "internet-of-things",
+    "items": [
+      {
+        "key": "amazon-freertos",
+        "name": "Amazon FreeRTOS"
+      },
+      {
+        "key": "aws-iot-1-click",
+        "name": "AWS IoT 1-Click"
+      },
+      {
+        "key": "aws-iot-analytics",
+        "name": "AWS IoT Analytics"
+      },
+      {
+        "key": "aws-iot-button",
+        "name": "AWS IoT Button"
+      },
+      {
+        "key": "aws-iot-core",
+        "name": "AWS IoT Core"
+      },
+      {
+        "key": "aws-iot-device-defender",
+        "name": "AWS IoT Device Defender"
+      },
+      {
+        "key": "aws-iot-device-management",
+        "name": "AWS IoT Device Management"
+      },
+      {
+        "key": "aws-iot-events",
+        "name": "AWS IoT Events"
+      },
+      {
+        "key": "aws-iot-greengrass",
+        "name": "AWS IoT Greengrass"
+      },
+      {
+        "key": "aws-iot-sitewise",
+        "name": "AWS IoT WiseWise"
+      },
+      {
+        "key": "aws-iot-things-graph",
+        "name": "AWS IoT Things Graph"
+      }
+    ]
+  }
+]
