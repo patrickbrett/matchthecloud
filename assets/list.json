@@ -238,7 +238,7 @@
       },
       {
         "key": "aws-iot-sitewise",
-        "name": "AWS IoT WiseWise"
+        "name": "AWS IoT SiteWise"
       },
       {
         "key": "aws-iot-things-graph",

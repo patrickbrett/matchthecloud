@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <div class
     <div class="main-app">
       <div v-if="between" class="review">
         <div class="correct-message">
